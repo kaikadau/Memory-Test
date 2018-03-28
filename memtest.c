@@ -84,6 +84,6 @@ main(){
  
     free(m); 
     s_old=s; 
- 
   } 
+ return 0;
 } 
